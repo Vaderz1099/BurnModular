@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "BurnModular",
+    "slug": "BurnModular",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "BurnModular"
+}
